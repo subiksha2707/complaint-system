@@ -1,1 +1,5 @@
-# complaint-system
+The College Complaint Portal is a full-featured web application designed for students to submit complaints related to various aspects of college life, such as infrastructure, faculty, facilities, library, cafeteria, transport, and other concerns. Each complaint is automatically assigned a unique tracking ID, which students can use to track the status of their complaint in real-time. The portal ensures transparency and efficiency in handling student grievances, allowing them to monitor the progress of their issues easily.
+
+The portal also includes an Admin Dashboard, where administrators can view all submitted complaints, update the status (Pending, In Progress, Resolved), and add remarks for each complaint. Admins can manage complaints efficiently and ensure that students are kept informed about the resolution progress.
+
+The application is built with HTML, CSS, and JavaScript, utilizing localStorage to persist complaint data. It features a responsive and interactive UI with separate pages for submitting complaints, tracking complaints, admin login, and the admin dashboard. The user interface includes form validation, status badges, remarks display, and a modal popup for updating complaints, making the system user-friendly for both students and administrators.
